@@ -1,0 +1,11 @@
+This is assignment for Bytive Technologies Private Limited
+it's a basic todo list made using JavaScript(node/express) and mongodb as database. 
+
+the entry point is server.js and each folder has its own purpose example routes has todoroutes to redirect routes etc..
+
+this project use thandercloud for api uses and mongodb extension for storing data in database in vscode.
+
+to use this project you need to have node/npm installed on your system then you can run the command npm install or yarn install from root directory of project to download all dependencies required by project(mention in pakage.jeson file). after installing all dependencies required by project you can start running server using command npm start or yarn start from root folder of project.
+
+plese also add correct port number and correct mongodb connection string in .env file before starting the application for first time.
+
